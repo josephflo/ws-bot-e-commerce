@@ -1,0 +1,404 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'A307D39FBD45E979D91E5374D5E8F6EC',
+    participant: undefined
+  },
+  messageTimestamp: 1688011286,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo puedo hacer para pasarlo a página',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo puedo hacer para pasarlo a página',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '53864C1DC12156B0B87BDECCB7D772AC',
+    participant: undefined
+  },
+  messageTimestamp: 1688011684,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '77183538005969FA62B3F6D8550DBF24',
+    participant: undefined
+  },
+  messageTimestamp: 1688011733,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '5396C8B5C1A5C72C31F25ADD2C659D9D',
+    participant: undefined
+  },
+  messageTimestamp: 1688011745,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '968F20ACF395B445151BE6174E2590B7',
+    participant: undefined
+  },
+  messageTimestamp: 1688011806,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/32326803_287307283664328_2467419379052555492_n.enc?ccb=11-4&oh=01_AdSfH-zPqGPu7nND2Gva0jDF4myQWtoxvX5Pxif6focoXA&oe=64C46015&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 576,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/32326803_287307283664328_2467419379052555492_n.enc?ccb=11-4&oh=01_AdSfH-zPqGPu7nND2Gva0jDF4myQWtoxvX5Pxif6focoXA&oe=64C46015',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__574f4192-4ba5-4e19-bf95-d15f2053e88a',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5593465E09D0A3BE4410DCC4E05C875',
+    participant: undefined
+  },
+  messageTimestamp: 1688011809,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Está genial',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Está genial',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'CC7216518597616F1CD3795DE8BC6415',
+    participant: undefined
+  },
+  messageTimestamp: 1688012137,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mmm como te muestro fotos?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mmm como te muestro fotos?',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '25AD22B77D34EFA5220F6578FF8F9142',
+    participant: undefined
+  },
+  messageTimestamp: 1688012256,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/31313836_179036318265077_1671128173017974380_n.enc?ccb=11-4&oh=01_AdRZEH4TXbdpP6j9Z_DSgLG5dHDUuR2zQg5x_NTnXTL9uw&oe=64C47C76&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/31313836_179036318265077_1671128173017974380_n.enc?ccb=11-4&oh=01_AdRZEH4TXbdpP6j9Z_DSgLG5dHDUuR2zQg5x_NTnXTL9uw&oe=64C47C76',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__36b71376-7a24-49b6-b52c-ccd99caefc36',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'B186C9A4C0A63BE0596C812321EC782B',
+    participant: undefined
+  },
+  messageTimestamp: 1688012284,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Medio poronga pero de ahí como hago para pasar el link y que cuando la persona entre se vean las imágenes bien',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Medio poronga pero de ahí como hago para pasar el link y que cuando la persona entre se vean las imágenes bien',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02D3087FC1010721330',
+    participant: undefined
+  },
+  messageTimestamp: 1688012995,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/31798808_1628034287663063_6796086969889995249_n.enc?ccb=11-4&oh=01_AdStLkCT5qRXWvqOfjUGpFsnmKkOUwvtDyTILPOZq6Tzcg&oe=64C468C4&mms3=true',
+      mimetype: 'text/html',
+      title: 'proyecto.html',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      mediaKey: [Uint8Array],
+      fileName: 'proyecto.html',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/31798808_1628034287663063_6796086969889995249_n.enc?ccb=11-4&oh=01_AdStLkCT5qRXWvqOfjUGpFsnmKkOUwvtDyTILPOZq6Tzcg&oe=64C468C4',
+      mediaKeyTimestamp: [Long],
+      contactVcard: false,
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_document__27092985-0560-48f5-a825-22b25234e987',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '8DE31075098F86CEBB740DA1CF527A58',
+    participant: undefined
+  },
+  messageTimestamp: 1688013583,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage { key: [MessageKey], type: 0 },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'E14DD3BFC9A4DCEC87873FD4CFCB24B7',
+    participant: undefined
+  },
+  messageTimestamp: 1688016499,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajaja',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'C823A01FD8860AA2304919E7DC1A7F90',
+    participant: undefined
+  },
+  messageTimestamp: 1688016502,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '2B3305F33657CDB74AD987EF9408A69E',
+    participant: undefined
+  },
+  messageTimestamp: 1688016529,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sisi ahora termina mi peli de perritos y duermo bebe',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sisi ahora termina mi peli de perritos y duermo bebe',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: '7B27EB6FA887951461A92188D6CF4050',
+    participant: undefined
+  },
+  messageTimestamp: 1688016544,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Vos tampco',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Vos tampco',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'D1A0136FE4D8F89C13FE4E6C8357286F',
+    participant: undefined
+  },
+  messageTimestamp: 1688016560,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Vos también ❤️❤️',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Vos también ❤️❤️',
+  from: '5491158041412'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491158041412@s.whatsapp.net',
+    fromMe: false,
+    id: 'F92BEFAB64EFE31FD1FC417F13A34A48',
+    participant: undefined
+  },
+  messageTimestamp: 1688050722,
+  pushName: 'Yaz🥀',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos diias amorcito ❤️',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos diias amorcito ❤️',
+  from: '5491158041412'
+}
